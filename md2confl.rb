@@ -3,7 +3,7 @@ require "formula"
 class Md2confl < Formula
   homepage "https://github.com/kentaro-m/md2confl"
   url "https://github.com/kentaro-m/md2confl/releases/download/v0.1.2/darwin_amd64_md2confl"
-  sha256 "694d07cbbe5555b9e95abdf201a8de604a49955a9691c54f42325a43f6786cf7"
+  sha256 "25f9f63ed530160a8bb4fb67783796ffbbd53d08b5fb9b1e9ce3959d0adf6368"
   head "https://github.com/kentaro-m/md2confl.git"
   version "v0.1.2"
 
