@@ -7,7 +7,6 @@ class Md2confl < Formula
   homepage "https://github.com/kentaro-m/md2confl"
   version "0.4.1"
   license "MIT"
-  bottle :unneeded
 
   on_macos do
     if Hardware::CPU.intel?
